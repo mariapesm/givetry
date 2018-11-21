@@ -1,0 +1,330 @@
+[
+	{
+		"TIME_PERIOD": "1998:Q1",
+		"United States": 4070132000
+	},
+	{
+		"TIME_PERIOD": "1998:Q2",
+		"United States": 4141016000
+	},
+	{
+		"TIME_PERIOD": "1998:Q3",
+		"United States": 4213416000
+	},
+	{
+		"TIME_PERIOD": "1998:Q4",
+		"United States": 4285320000
+	},
+	{
+		"TIME_PERIOD": "1999:Q1",
+		"United States": 4363620000
+	},
+	{
+		"TIME_PERIOD": "1999:Q2",
+		"United States": 4408260000
+	},
+	{
+		"TIME_PERIOD": "1999:Q3",
+		"United States": 4472112000
+	},
+	{
+		"TIME_PERIOD": "1999:Q4",
+		"United States": 4583084000
+	},
+	{
+		"TIME_PERIOD": "2000:Q1",
+		"United States": 4752344000
+	},
+	{
+		"TIME_PERIOD": "2000:Q2",
+		"United States": 4779100000
+	},
+	{
+		"TIME_PERIOD": "2000:Q3",
+		"United States": 4869836000
+	},
+	{
+		"TIME_PERIOD": "2000:Q4",
+		"United States": 4893780000
+	},
+	{
+		"TIME_PERIOD": "2001:Q1",
+		"United States": 4975720000
+	},
+	{
+		"TIME_PERIOD": "2001:Q2",
+		"United States": 4957672000
+	},
+	{
+		"TIME_PERIOD": "2001:Q3",
+		"United States": 4932664000
+	},
+	{
+		"TIME_PERIOD": "2001:Q4",
+		"United States": 4934448000
+	},
+	{
+		"TIME_PERIOD": "2002:Q1",
+		"United States": 4942508000
+	},
+	{
+		"TIME_PERIOD": "2002:Q2",
+		"United States": 4995032000
+	},
+	{
+		"TIME_PERIOD": "2002:Q3",
+		"United States": 5009028000
+	},
+	{
+		"TIME_PERIOD": "2002:Q4",
+		"United States": 5023920000
+	},
+	{
+		"TIME_PERIOD": "2003:Q1",
+		"United States": 5023308000
+	},
+	{
+		"TIME_PERIOD": "2003:Q2",
+		"United States": 5096500000
+	},
+	{
+		"TIME_PERIOD": "2003:Q3",
+		"United States": 5163824000
+	},
+	{
+		"TIME_PERIOD": "2003:Q4",
+		"United States": 5251280000
+	},
+	{
+		"TIME_PERIOD": "2004:Q1",
+		"United States": 5270120000
+	},
+	{
+		"TIME_PERIOD": "2004:Q2",
+		"United States": 5376828000
+	},
+	{
+		"TIME_PERIOD": "2004:Q3",
+		"United States": 5488424000
+	},
+	{
+		"TIME_PERIOD": "2004:Q4",
+		"United States": 5531840000
+	},
+	{
+		"TIME_PERIOD": "2005:Q1",
+		"United States": 5571976000
+	},
+	{
+		"TIME_PERIOD": "2005:Q2",
+		"United States": 5635204000
+	},
+	{
+		"TIME_PERIOD": "2005:Q3",
+		"United States": 5735212000
+	},
+	{
+		"TIME_PERIOD": "2005:Q4",
+		"United States": 5811200000
+	},
+	{
+		"TIME_PERIOD": "2006:Q1",
+		"United States": 5966500000
+	},
+	{
+		"TIME_PERIOD": "2006:Q2",
+		"United States": 6007024000
+	},
+	{
+		"TIME_PERIOD": "2006:Q3",
+		"United States": 6055656000
+	},
+	{
+		"TIME_PERIOD": "2006:Q4",
+		"United States": 6176248000
+	},
+	{
+		"TIME_PERIOD": "2007:Q1",
+		"United States": 6339388000
+	},
+	{
+		"TIME_PERIOD": "2007:Q2",
+		"United States": 6366956000
+	},
+	{
+		"TIME_PERIOD": "2007:Q3",
+		"United States": 6393680000
+	},
+	{
+		"TIME_PERIOD": "2007:Q4",
+		"United States": 6471304000
+	},
+	{
+		"TIME_PERIOD": "2008:Q1",
+		"United States": 6538004000
+	},
+	{
+		"TIME_PERIOD": "2008:Q2",
+		"United States": 6529364000
+	},
+	{
+		"TIME_PERIOD": "2008:Q3",
+		"United States": 6542980000
+	},
+	{
+		"TIME_PERIOD": "2008:Q4",
+		"United States": 6514048000
+	},
+	{
+		"TIME_PERIOD": "2009:Q1",
+		"United States": 6219116000
+	},
+	{
+		"TIME_PERIOD": "2009:Q2",
+		"United States": 6247032000
+	},
+	{
+		"TIME_PERIOD": "2009:Q3",
+		"United States": 6229276000
+	},
+	{
+		"TIME_PERIOD": "2009:Q4",
+		"United States": 6270540000
+	},
+	{
+		"TIME_PERIOD": "2010:Q1",
+		"United States": 6223900000
+	},
+	{
+		"TIME_PERIOD": "2010:Q2",
+		"United States": 6351576000
+	},
+	{
+		"TIME_PERIOD": "2010:Q3",
+		"United States": 6413760000
+	},
+	{
+		"TIME_PERIOD": "2010:Q4",
+		"United States": 6464236000
+	},
+	{
+		"TIME_PERIOD": "2011:Q1",
+		"United States": 6567036000
+	},
+	{
+		"TIME_PERIOD": "2011:Q2",
+		"United States": 6597652000
+	},
+	{
+		"TIME_PERIOD": "2011:Q3",
+		"United States": 6671172000
+	},
+	{
+		"TIME_PERIOD": "2011:Q4",
+		"United States": 6627152000
+	},
+	{
+		"TIME_PERIOD": "2012:Q1",
+		"United States": 6826000000
+	},
+	{
+		"TIME_PERIOD": "2012:Q2",
+		"United States": 6866336000
+	},
+	{
+		"TIME_PERIOD": "2012:Q3",
+		"United States": 6896356000
+	},
+	{
+		"TIME_PERIOD": "2012:Q4",
+		"United States": 7083972000
+	},
+	{
+		"TIME_PERIOD": "2013:Q1",
+		"United States": 7034492000
+	},
+	{
+		"TIME_PERIOD": "2013:Q2",
+		"United States": 7093744000
+	},
+	{
+		"TIME_PERIOD": "2013:Q3",
+		"United States": 7103744000
+	},
+	{
+		"TIME_PERIOD": "2013:Q4",
+		"United States": 7187164000
+	},
+	{
+		"TIME_PERIOD": "2014:Q1",
+		"United States": 7364592000
+	},
+	{
+		"TIME_PERIOD": "2014:Q2",
+		"United States": 7399504000
+	},
+	{
+		"TIME_PERIOD": "2014:Q3",
+		"United States": 7486012000
+	},
+	{
+		"TIME_PERIOD": "2014:Q4",
+		"United States": 7612624000
+	},
+	{
+		"TIME_PERIOD": "2015:Q1",
+		"United States": 7727524000
+	},
+	{
+		"TIME_PERIOD": "2015:Q2",
+		"United States": 7820332000
+	},
+	{
+		"TIME_PERIOD": "2015:Q3",
+		"United States": 7894064000
+	},
+	{
+		"TIME_PERIOD": "2015:Q4",
+		"United States": 7948684000
+	},
+	{
+		"TIME_PERIOD": "2016:Q1",
+		"United States": 7975168000
+	},
+	{
+		"TIME_PERIOD": "2016:Q2",
+		"United States": 8018728000
+	},
+	{
+		"TIME_PERIOD": "2016:Q3",
+		"United States": 8100452000
+	},
+	{
+		"TIME_PERIOD": "2016:Q4",
+		"United States": 8203572000
+	},
+	{
+		"TIME_PERIOD": "2017:Q1",
+		"United States": 8318844000
+	},
+	{
+		"TIME_PERIOD": "2017:Q2",
+		"United States": 8389800000
+	},
+	{
+		"TIME_PERIOD": "2017:Q3",
+		"United States": 8500900000
+	},
+	{
+		"TIME_PERIOD": "2017:Q4",
+		"United States": 8582272000
+	},
+	{
+		"TIME_PERIOD": "2018:Q1",
+		"United States": 8704649000
+	},
+	{
+		"TIME_PERIOD": "2018:Q2",
+		"United States": 8799710000
+	}
+]
