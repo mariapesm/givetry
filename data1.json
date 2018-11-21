@@ -1,16 +1,13 @@
-{ 
-	"private": false,
-  "type": null,
-  "premium": false,
-  "data": [
+
 	[
+		{
 		"TIME_PERIOD": "1998:Q1",
 		"United States": 4070132000
-	],
-	[
+	  },
+	  {
 		"TIME_PERIOD": "1998:Q2",
 		"United States": 4141016000
-	],
+	  },
 	{
 		"TIME_PERIOD": "1998:Q3",
 		"United States": 4213416000
@@ -332,4 +329,4 @@
 		"United States": 8799710000
 	}
 ]
-	   }
+	   
